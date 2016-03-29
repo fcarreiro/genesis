@@ -17,6 +17,8 @@ The code was basically made from scratch, with the ocassional help of some onlin
   * Basic internationalization
 * A server (`server`)
 
+_Note: Pardon the notation and lack of "modern" design patterns in the code. This was ages ago. My dial-up connection really limited my learning ;)_
+
 ## Screenshots
 ![](screenshots/shot1.png)
 ![](screenshots/shot2.png)
